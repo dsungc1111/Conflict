@@ -51,7 +51,9 @@
 		8BA3D8C72CB4E5430020D5B1 /* Conflict */ = {
 			isa = PBXGroup;
 			children = (
-				8BA3D8D72CB4E7AE0020D5B1 /* Bryn */,
+
+				8BA3D8D62CB4E6D90020D5B1 /* Dean */,
+
 				8BA3D8CC2CB4E5450020D5B1 /* Assets.xcassets */,
 				8BA3D8CE2CB4E5450020D5B1 /* Preview Content */,
 			);
@@ -66,13 +68,16 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		8BA3D8D72CB4E7AE0020D5B1 /* Bryn */ = {
+		8BA3D8D62CB4E6D90020D5B1 /* Dean */ = {
+
 			isa = PBXGroup;
 			children = (
 				8BA3D8C82CB4E5430020D5B1 /* ConflictApp.swift */,
 				8BA3D8CA2CB4E5430020D5B1 /* ContentView.swift */,
 			);
-			path = Bryn;
+
+			path = Dean;
+
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
